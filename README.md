@@ -22,7 +22,12 @@ Filtering based on Categories
 Adding items to cart
 ![image](https://github.com/user-attachments/assets/ddcdc982-4e69-40ba-afa3-f78a8f03a2f6)
 
+Checking out
 ![image](https://github.com/user-attachments/assets/ad4ef95b-320b-4181-9ceb-e2fe45d38e8c)
+
+No items in cart
 ![image](https://github.com/user-attachments/assets/4c23b6e3-2c5a-439d-8e17-78d814bd1470)
 ![image](https://github.com/user-attachments/assets/18313fa2-a46f-4dd2-bdd0-724f69176c97)
+
+Profile page
 ![image](https://github.com/user-attachments/assets/4c02d35f-aa61-45d3-8c1c-632ddc547268)
