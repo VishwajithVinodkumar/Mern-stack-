@@ -1,3 +1,5 @@
+
+
 Login Page 
 ![image](https://github.com/user-attachments/assets/6a29a500-eecf-4cd4-89f3-61c2755e52fe)
 
@@ -14,8 +16,12 @@ Menu page
 Search option in main page
 ![image](https://github.com/user-attachments/assets/cd5c0cda-982f-4685-8b05-3b02c04f9009)
 
+Filtering based on Categories
 ![image](https://github.com/user-attachments/assets/ddff290c-9c3b-406c-b02c-9be4eec4dae8)
+
+Adding items to cart
 ![image](https://github.com/user-attachments/assets/ddcdc982-4e69-40ba-afa3-f78a8f03a2f6)
+
 ![image](https://github.com/user-attachments/assets/ad4ef95b-320b-4181-9ceb-e2fe45d38e8c)
 ![image](https://github.com/user-attachments/assets/4c23b6e3-2c5a-439d-8e17-78d814bd1470)
 ![image](https://github.com/user-attachments/assets/18313fa2-a46f-4dd2-bdd0-724f69176c97)
